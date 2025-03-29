@@ -21,6 +21,12 @@ This guide will walk you through the basics of using GitHub, including installin
 
 2. **Install Git**:
    - Follow the installation instructions for your operating system.
+     ```
+     sudo port install git 
+     ```
+     ![Installing git](imgs/sudo_port_install_git.png)   
+
+
    - Once installed, open a terminal or command prompt and verify the installation by running:
      ```bash
      git --version
