@@ -66,6 +66,8 @@ This guide will walk you through the basics of using GitHub, including installin
    ![Create Repository](imgs/ai_repo.png)
 
 
+
+---
 ---
 
 ## Clone the Repository
@@ -178,6 +180,7 @@ This guide will walk you through the basics of using GitHub, including navigatin
    ```bash
    git branch
    ```
+   ![Main branch only](imgs/only_main_branch.png)
 
    This will display all the branches in the repository.
 
@@ -191,7 +194,7 @@ This guide will walk you through the basics of using GitHub, including navigatin
 
     
 
-    ![View Branches](imgs/5.Jerry_branch.png)
+    ![View Branches](imgs/4.Tom_branch.png)
 
 
 
